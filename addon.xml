@@ -15,5 +15,10 @@
     <summary>Radbox</summary>
     <description>Plugin that allows you to browse videos you have added to your Radbox.me account. Currently only youtube and vimeo videos will be listed.</description>
     <disclaimer>This addon requires the youtube and vimeo plugin to work as intended.</disclaimer>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>http://forum.kodi.tv/showthread.php?tid=94535</forum>
+    <website></website>
+    <email></email>
+    <source>https://github.com/TsUPeR/xbmc-radbox</source>
   </extension>
 </addon>
